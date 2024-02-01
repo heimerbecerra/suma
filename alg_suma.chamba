@@ -1,0 +1,11 @@
+Algoritmo alg_suma
+	//algoritmo para calcular la suma de 3 numeros
+	
+	int_numero1 = 4
+	int_numero2 = 3
+	
+	int_suma = int_numero1 + int_numero2
+	
+	Escribir 'el resultado de la operacion de', int_numero1, '+',int_numero2, ' es:',int_suma, 'mi primera chamba :D'
+	
+FinAlgoritmo
